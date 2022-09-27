@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         messagefunc('this is the new message')
     }, 2000);
     
-    Step 4 (Timing Out)
+    // Step 4 (Timing Out)
     function getWords(word) {
         console.log(`${word}`)
         setTimeout(() => {
