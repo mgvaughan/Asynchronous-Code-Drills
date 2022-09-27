@@ -1,7 +1,7 @@
 ## Asynchronous Code Drills
 The purpose of this lab is to practice Asynchronous JavaScript concepts discussed in the video lectures. You'll want to feel comfortable writing your own functions that return new Promise objects, write setTimeout functions, and using .then()/.catch().
 
-# Steps
+Steps
 ## Setup
 1. Make sure all the html has loaded before using JavaScript
 2. Create a new project folder and connect it to a github repository. Copy this README.md file into it.
